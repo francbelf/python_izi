@@ -32,9 +32,12 @@ Try out examples/test_MCMC for an example. The example also explains how to make
 
 If you are using this code please cite the both papers below.
 The original paper describing the IZI code:
-Blanc et al., 2015, ApJ, 798, 99
+
+Blanc et al., 2015, ApJ, 798, 99 (https://ui.adsabs.harvard.edu/abs/2015ApJ...798...99B/abstract)
+
 AND the paper describing the current python version of the code and the mcmc extension which includes fitting for the extinction:
-Mingozzi et al., 2020, A&A, 636, A42.
+
+Mingozzi et al., 2020, A&A, 636, A42 (https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..42M/abstract)
 
 ## Problems?
 
