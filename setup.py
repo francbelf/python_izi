@@ -58,6 +58,7 @@ def run_setup(data_files,  packages, install_requires):
           keywords='astronomy bayesian metallicity',
           url='https://github.com/sdss/izi',
           #python_requires='>=2.6,<3.0',
+          python_requires='>=3.0',
           packages=packages,
           package_data={'': data_files},
           include_package_data=True,
