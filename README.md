@@ -9,7 +9,7 @@ Several model grids are included in the current installation.
 
 First clone the full repo by or clicking the download button on GitHub.
 
-`git clone --recursive https://github.com/sdss/izi.git`
+`git clone --recursive https://github.com/francbelf/python_izi.git`
 
 then do
 
