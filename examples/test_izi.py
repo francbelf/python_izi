@@ -54,7 +54,7 @@ error=[0.023,  0.15]
 id=[ 'nii6548;nii6584', 'halpha']
    
 out2=izi(flux, error, id,\
-    intergridfile='interpolgrid_100_100d13_kappa20',
+    intergridfile='interpolgrid_50_50d13_kappa20',
     epsilon=0.1, quiet=False, plot=True)
     
 print('Elapsed time: {0} seconds'.format(time.process_time() - timestart))
