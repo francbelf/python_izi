@@ -21,7 +21,7 @@ id=['oii3726;oii3729','oiii4959;oiii5007', 'hbeta' , 'nii6548;nii6584', \
 
 out2=izi_MCMC(flux, error, id,\
      intergridfile='interpolgrid_100_100d13_kappaINF', epsilon=0.1, quiet=False, 
-     plot=True,plot_z_steps=False,plot_q_steps=False,plot_derivatives=False,
+     plot=True,plot_z_steps=False,plot_q_steps=False,
      logqprior=None)
      
 # now imposing a Gaussian prior on the ionisation parameter
