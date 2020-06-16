@@ -368,8 +368,8 @@ class izi_MCMC(object):
                  epsilon=0.1, nz=100, nq=100,
                  intergridfile=None, outgridfile=False, 
                  nonorm=0,
-                 quiet=False, plot=True, plot_z_steps=False, plot_q_steps=False, plot_ebv_steps=False, plot_derivatives=False,
-                 logqprior=None, logzprior=None):
+                 quiet=False, plot=True, plot_z_steps=False, plot_q_steps=False, plot_ebv_steps=False,
+                 logqprior=None, logzprior=None):#plot_derivatives=False
 
 
         #DECLARE INPUT TO SELF
@@ -388,7 +388,7 @@ class izi_MCMC(object):
         self.plot_z_steps=plot_z_steps
         self.plot_q_steps= plot_q_steps
         self.plot_ebv_steps=plot_ebv_steps
-        self.plot_derivatives=plot_derivatives
+        #self.plot_derivatives=plot_derivatives
         self.nz=nz
         self.nq=nq
         self.quiet=quiet
