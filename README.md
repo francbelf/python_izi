@@ -41,4 +41,4 @@ Mingozzi et al., 2020, A&A, 636, A42 (https://ui.adsabs.harvard.edu/abs/2020A%26
 
 ## Problems?
 
-Please contact Matilde Mingozzi (matilde.mingozzi@inaf.it) and/or Francesco Belfiore (francesco.belfiore@inaf.it).
+Please contact Matilde Mingozzi (mmingozzi@stsci.edu) and/or Francesco Belfiore (francesco.belfiore@inaf.it).
